@@ -1,7 +1,7 @@
 # Seelittlethings-viralboom
 It's a wordpress template for viral websites
 <br/>
-I've finished it almost 2 years now.
+I've finished it almost 2 years now ( today is 30/5/2020) .
 <br/>
 <b>it's a responsive wordpress template with no plugins it's 100% from scratch the technologies used are :</b>
 
